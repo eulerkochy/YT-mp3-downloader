@@ -1,1 +1,1 @@
-upload the code here
+run-> python3 ytd01.py in the terminal after completing the requirements, mp3 will be downloaded in the same folder as the script,
