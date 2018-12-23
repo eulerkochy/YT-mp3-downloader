@@ -7,7 +7,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
 
 
-<br>An extremely simple python script for downloading YT videos in mp3 format
+<br>An extremely simple python script for downloading YT videos and playlist in mp3 format
 
 # Requirements
 <ul>
