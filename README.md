@@ -1,4 +1,5 @@
 # YT-mp3-downloader
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 An extremely simple python script for downloading YT videos in mp3 format
 
 # Requirements
