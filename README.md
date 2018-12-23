@@ -11,7 +11,7 @@
 
 # Requirements
 <ul>
-  <li> pytube :: pip install pytube
-  <li> ffmpeg :: pip install ffmpeg-python
+  <li> <b>pytube</b>  <code><i>pip install pytube</i></code>
+  <li> <b>ffmpeg</b>  <code><i>pip install ffmpeg-python</code></i>
   <li> <a href='https://github.com/nficano/pytube/issues/333' alt='Change of regex by YT'> A change in cipher.py for regex
 </ul>
