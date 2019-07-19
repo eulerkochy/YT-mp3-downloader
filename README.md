@@ -1,4 +1,4 @@
-# YT-mp3-downloader
+# YouTube Music Downloader
 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
